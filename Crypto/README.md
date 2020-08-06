@@ -1,0 +1,2 @@
+# Currcoin
+Currcoin project
